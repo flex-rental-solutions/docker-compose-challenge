@@ -1,3 +1,3 @@
-# spring-boot-docker-challenge
+# docker-compose-challenge
 
 1. 
