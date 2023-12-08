@@ -12,7 +12,7 @@
 - In the browser, go to http://localhost:8100/api
 - As you click the browser refresh, observe the "Server name" cycling through the 3 backend instances.
 
-**Browser Example:**
+**Example Browser Output**
 
 <img width="588" alt="Screenshot 2023-12-08 at 5 42 40 PM (2)" src="https://github.com/flex-rental-solutions/docker-compose-challenge/assets/192500/f7e9ff37-f56e-4620-96d3-dab9ca331ffa">
 
