@@ -1,6 +1,6 @@
 # docker-compose-challenge
 
-#### Create a simple, mock API with Docker Compose
+## Create a simple, mock API with Docker Compose
 
 Go to https://docs.docker.com/compose/ for more info on Docker Compose.
 
@@ -10,7 +10,7 @@ Go to https://docs.docker.com/compose/ for more info on Docker Compose.
 4. Modify the haproxy config to route the `/api` URL context to the API cluster and have it load balance across the 3 nginx instances.
 5. Zip up the project and email it to roger@flexrentalsolutions.com
 
-#### Outcome
+## Outcome
 
 - Start everything by running `docker-compose up` in the directory of the `docker-compose.yaml` file
 - In the browser, go to http://localhost:8100/api
