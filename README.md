@@ -14,4 +14,5 @@
 
 **Browser Example:**
 
-<img width="561" alt="Screenshot 2023-12-08 at 5 39 08 PM (2)" src="https://github.com/flex-rental-solutions/docker-compose-challenge/assets/192500/1821ab62-1396-4770-bce7-bdfe4f2744f5">
+<img width="588" alt="Screenshot 2023-12-08 at 5 42 40 PM (2)" src="https://github.com/flex-rental-solutions/docker-compose-challenge/assets/192500/f7e9ff37-f56e-4620-96d3-dab9ca331ffa">
+
