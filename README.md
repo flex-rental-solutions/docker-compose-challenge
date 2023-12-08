@@ -10,7 +10,7 @@
 
 - Start everything by running `docker-compose up` in the directory of the `docker-compose.yaml` file
 - In the browser, go to http://localhost:8100/api
-- As you click the browser refresh, observe the "Server name" cycling through the 3 backend instances.
+- As you click the browser refresh, observe the "Server name" cycling through the 3 backend instance id's.
 
 **Example Browser Output**
 
