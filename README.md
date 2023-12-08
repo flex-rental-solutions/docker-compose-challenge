@@ -1,6 +1,6 @@
 # docker-compose-challenge
 
-### Create a simple, mock API in the `docker-compose.yaml` file
+#### Create a simple, mock API in the `docker-compose.yaml` file
 
 Go to https://docs.docker.com/compose/ for more info on Docker Compose.
 
@@ -8,7 +8,7 @@ Go to https://docs.docker.com/compose/ for more info on Docker Compose.
 2. Setup a mock API cluster using the `nginxdemos/hello` Docker image. Make sure there are 3 instances of `nginxdemos/hello` running.
 3. Modify the haproxy config to route the `/api` URL context to the API cluster and have it load balance across the 3 nginx instances.
 
-### Outcome
+#### Outcome
 
 - Start everything by running `docker-compose up` in the directory of the `docker-compose.yaml` file
 - In the browser, go to http://localhost:8100/api
