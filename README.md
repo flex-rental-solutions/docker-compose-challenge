@@ -2,6 +2,8 @@
 
 ### Create a simple, mock API in the `docker-compose.yaml` file
 
+Go to https://docs.docker.com/compose/ for more info on Docker Compose.
+
 1. Setup an haproxy container as the API "front door". Configure haproxy to start on port 8100. Expose port 8100 to the host.
 2. Setup a mock API cluster using the `nginxdemos/hello` Docker image. Make sure there are 3 instances of `nginxdemos/hello` running.
 3. Modify the haproxy config to route the `/api` URL context to the API cluster and have it load balance across the 3 nginx instances.
